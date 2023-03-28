@@ -1,0 +1,33 @@
+<style>
+		body {
+			background-color: black;
+			font-family:'Times New Roman', Times, serif;
+		}
+
+		h1 {
+			color: white;
+			font-size: 36px;
+			margin-top: 50px;
+		}
+
+		#main-content {
+			background-color: white;
+			padding: 20px;
+			margin: 50px;
+			border-radius: 10px;
+		}
+
+		.btn {
+			background-color: green;
+			color: white;
+			padding: 10px;
+			border-radius: 5px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 10px;
+		}
+
+		.btn:hover {
+			background-color: darkgreen;
+		}
+	</style>
