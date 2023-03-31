@@ -1,13 +1,14 @@
 <style>
 		body {
-			background-color: black;
-			font-family:'Times New Roman', Times, serif;
+			background-color: red;
+			font-family:cursive;
 		}
 
 		h1 {
-			color: white;
-			font-size: 36px;
-			margin-top: 50px;
+			color: rgb(0, 0, 0);
+			font-size: 50px;
+			margin-top: 10px;
+			text-align: center;
 		}
 
 		#main-content {
@@ -18,16 +19,16 @@
 		}
 
 		.btn {
-			background-color: green;
+			background-color: blue;
 			color: white;
 			padding: 10px;
 			border-radius: 5px;
-			text-decoration: none;
+			text-decoration: transparent;
 			display: inline-block;
 			margin: 10px;
 		}
 
 		.btn:hover {
-			background-color: darkgreen;
+			background-color:blueviolet;
 		}
 	</style>
