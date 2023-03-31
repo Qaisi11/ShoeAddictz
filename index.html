@@ -4,7 +4,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<style>
 		body {
-			background-color: black;
+			background-color: red;
 			font-family:'Times New Roman', Times, serif;
 		}
 
@@ -32,7 +32,7 @@
 		}
 
 		.btn:hover {
-			background-color: purple;
+			background-color: p;
 		}
 	</style>
 </head>
@@ -40,14 +40,14 @@
 	<header>
 		<h1>ShoeAddictz</h1>
 		<nav>
-			<select>
-				<option value="">Click here to select a page!</option>
-				<option value="page2.html">Page#2</option>
-				<option value="page3.html">Page #3</option>
+			<label for="menu">Click on me to view the different pages!</label>
+			<select id="menu" name="menu">
+				<option value="page2.html">Page 2</option>
+				<option value="page3.html">Page 3</option>
 			  </select>
 		</nav>
 	</header>
-   
+	
 	<main id="main-content">
 		<h2>About Us</h2>
 		<p>This is a website like StockX except we don't actually sell anything, instead, we just inform you about popular shoes, their rarity, their price, and where you can find them!</p>
