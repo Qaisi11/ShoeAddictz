@@ -1,34 +1,35 @@
 <style>
-		body {
-			background-color: red;
-			font-family:cursive;
-		}
+body {
+	background-color: blanchedalmond;
+	font-family:cursive;
+}
 
-		h1 {
-			color: rgb(0, 0, 0);
-			font-size: 50px;
-			margin-top: 10px;
-			text-align: center;
-		}
+h1 {
+	color: rgb(0, 0, 0);
+	font-size: 50px;
+	margin-top: 10px;
+	text-align: center;
+}
 
-		#main-content {
-			background-color: white;
-			padding: 20px;
-			margin: 50px;
-			border-radius: 10px;
-		}
+#main-content {
+	background-color: white;
+	padding: 20px;
+	margin: 50px;
+	border-radius: 10px;
+}
 
-		.btn {
-			background-color: blue;
-			color: white;
-			padding: 10px;
-			border-radius: 5px;
-			text-decoration: transparent;
-			display: inline-block;
-			margin: 10px;
-		}
+.btn {
+	background-color: blue;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	text-decoration: transparent;
+	display: inline-block;
+	margin: 10px;
+}
 
-		.btn:hover {
-			background-color:blueviolet;
-		}
-	</style>
+.btn:hover {
+	background-color:black;
+}
+
+</style>
